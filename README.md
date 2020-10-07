@@ -1,2 +1,2 @@
 # smart-brain-api
-Backend bewieen Frontend and Database
+Backend between Frontend and Database
